@@ -9,7 +9,7 @@ Implement eigenface, fisherface by PCA,LDA
 
 
 ### fisherface
-![alt text](https://github.com/leduoyang/eigenface_fisherface_implementation/blob/master/lda_result.png.png)
+![alt text](https://github.com/leduoyang/eigenface_fisherface_implementation/blob/master/lda_resultpng)
 
 
 source:
